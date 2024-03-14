@@ -20,4 +20,4 @@ All the images have gone through preprocessing and visualized and revised severa
 
 ## Dataset
 
-[![kaggle](https://img.shields.io/badge/kaggle-0A66C2?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset)
+[![kaggle](https://img.shields.io/badge/dataset-0A66C2?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset)

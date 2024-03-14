@@ -17,3 +17,7 @@ And here are some screenshots from the projects insights over the data. I'll be 
 The model is a sequential model from tensorflow framework the model is trained over a aproximatlly 38k images over a course of 20 epochs which showed the improvment of the model by the epoch.
 
 All the images have gone through preprocessing and visualized and revised several time all faulty images are removed.
+
+## Dataset
+
+- [@Dataset]([https://github.com/Yahia0mohamed](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset)https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset)
